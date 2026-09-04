@@ -1,0 +1,64 @@
+about:
+  description:
+  |
+    ⚡️A terminal-based battery and energy monitor for macOS and Linux.
+  license: MIT
+  homepage: https://getjolt.sh/
+  head: c2f07b7
+  archived: false
+  latestVersion: 1.2.0
+  collectedAt: 2026-09-04T05:03:28Z
+timeline:
+  created: 2026-01-06
+  lastCommit: 2026-09-03
+  lastRelease: 2026-02-09
+popularity:
+  star: 550
+  watcher: 4
+  fork: 15
+  release: 15
+  contributor: 6
+  pullRequest: 25
+  issue: 45
+language:
+  Rust: 647275
+  Astro: 42168
+  Shell: 9303
+  CSS: 7799
+  JavaScript: 4173
+  Nix: 1842
+  TypeScript: 621
+totalBytes: 713181
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 5
+    openPR: 3
+    closedIssue: 0
+    openIssue: 1
+    commit: 6
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 5
+    openPR: 3
+    closedIssue: 0
+    openIssue: 1
+    commit: 6
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 13
+    openPR: 3
+    closedIssue: 0
+    openIssue: 1
+    commit: 22
+  last360d:
+    since: 2025-09-09
+    release: 15
+    mergedPR: 143
+    openPR: 5
+    closedIssue: 38
+    openIssue: 7
+    commit: 240
