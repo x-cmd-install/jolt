@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3544806,
       "digest": "sha256:51617a447e768d4b0692f63dd33d4d8bc68e95c535c8e46341de962adeef8324",
-      "download_count": 717,
+      "download_count": 719,
       "created_at": "2026-02-09T17:51:20Z",
       "updated_at": "2026-02-09T17:51:20Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4000614,
       "digest": "sha256:941a1b79b078f4d522622ae1329fb86723be7d7a84d1786ea5b917744dd0b1a4",
-      "download_count": 247,
+      "download_count": 248,
       "created_at": "2026-02-09T17:51:57Z",
       "updated_at": "2026-02-09T17:51:58Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 8414808,
       "digest": "sha256:d5b42efadfad6eb3ec389a74a85fb94f9b0e6a4e8b4d90aa50fdf95afbd755f5",
-      "download_count": 365,
+      "download_count": 366,
       "created_at": "2026-02-09T17:51:54Z",
       "updated_at": "2026-02-09T17:51:55Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-gnu"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:ab86ff09e0e33a9c1e9eb3cf2e0f40d3c5a9ab7b4ff19b593706bb503ae92145",
-      "download_count": 297,
+      "download_count": 298,
       "created_at": "2026-02-09T17:51:54Z",
       "updated_at": "2026-02-09T17:51:54Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-gnu.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 8540632,
       "digest": "sha256:0a1616b236c1670e9d26b19bbb584b5183b3ed629f29c06dbadac48c3c7465af",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-02-09T17:51:45Z",
       "updated_at": "2026-02-09T17:51:46Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl"
