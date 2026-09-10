@@ -23,11 +23,37 @@ x install jolt
 - **Latest**: `1.2.0` (2026-02-09)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 22
-- **Published**: 2026-02-09T17:48:12Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksum.txt](https://github.com/jordond/jolt/releases/download/1.2.0/checksum.txt) | 535 B | `other` |
+| [checksums.txt](https://github.com/jordond/jolt/releases/download/1.2.0/checksums.txt) | 993 B | `other` |
+| [jolt-1.2.0-aarch64-apple-darwin](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-apple-darwin) | 6.7 MiB | `native/darwin/arm64` |
+| [jolt-1.2.0-aarch64-apple-darwin.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-apple-darwin.sha256) | 98 B | `native/darwin/arm64` |
+| [jolt-1.2.0-aarch64-unknown-linux-gnu](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-gnu) | 7.0 MiB | `native/linux/arm64/glibc` |
+| [jolt-1.2.0-aarch64-unknown-linux-gnu.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-gnu.sha256) | 103 B | `native/linux/arm64/glibc` |
+| [jolt-1.2.0-aarch64-unknown-linux-musl](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-musl) | 6.9 MiB | `native/linux/arm64/musl` |
+| [jolt-1.2.0-aarch64-unknown-linux-musl.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-musl.sha256) | 104 B | `native/linux/arm64/musl` |
+| [jolt-1.2.0-darwin-amd64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-amd64.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [jolt-1.2.0-darwin-amd64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-amd64.tar.gz.sha256) | 97 B | `native/darwin/x64` |
+| [jolt-1.2.0-darwin-arm64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-arm64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [jolt-1.2.0-darwin-arm64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-arm64.tar.gz.sha256) | 97 B | `native/darwin/arm64` |
+| [jolt-1.2.0-linux-amd64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [jolt-1.2.0-linux-amd64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-amd64.tar.gz.sha256) | 96 B | `native/linux/x64` |
+| [jolt-1.2.0-linux-arm64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-arm64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
+| [jolt-1.2.0-linux-arm64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-arm64.tar.gz.sha256) | 96 B | `native/linux/arm64` |
+| [jolt-1.2.0-x86_64-apple-darwin](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-apple-darwin) | 7.3 MiB | `native/darwin/x64` |
+| [jolt-1.2.0-x86_64-apple-darwin.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-apple-darwin.sha256) | 97 B | `native/darwin/x64` |
+| [jolt-1.2.0-x86_64-unknown-linux-gnu](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-gnu) | 8.0 MiB | `native/linux/x64/glibc` |
+| [jolt-1.2.0-x86_64-unknown-linux-gnu.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-gnu.sha256) | 102 B | `native/linux/x64/glibc` |
+| [jolt-1.2.0-x86_64-unknown-linux-musl](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl) | 8.1 MiB | `native/linux/x64/musl` |
+| [jolt-1.2.0-x86_64-unknown-linux-musl.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl.sha256) | 103 B | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 553 · **Forks**: 15 · **Open issues**: 45 · **Contributors**: 6
+- **Stars**: 552 · **Forks**: 15 · **Open issues**: 45 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -58,8 +84,8 @@ Total: **19,061** lines of code across **135** files in the top 5 languages.
 Install metadata for jolt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jolt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jolt.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jolt.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:01:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:51Z._

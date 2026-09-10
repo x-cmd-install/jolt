@@ -4,7 +4,7 @@
 
 ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 
-![jolt](https://repo.x-cmd.io/jolt.svg)
+![jolt](https://repo.x-cmd.io/jolt.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,37 @@ x install jolt
 - **最新版本**: `1.2.0` (2026-02-09)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 22 个
-- **发布时间**: 2026-02-09T17:48:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksum.txt](https://github.com/jordond/jolt/releases/download/1.2.0/checksum.txt) | 535 B | `other` |
+| [checksums.txt](https://github.com/jordond/jolt/releases/download/1.2.0/checksums.txt) | 993 B | `other` |
+| [jolt-1.2.0-aarch64-apple-darwin](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-apple-darwin) | 6.7 MiB | `native/darwin/arm64` |
+| [jolt-1.2.0-aarch64-apple-darwin.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-apple-darwin.sha256) | 98 B | `native/darwin/arm64` |
+| [jolt-1.2.0-aarch64-unknown-linux-gnu](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-gnu) | 7.0 MiB | `native/linux/arm64/glibc` |
+| [jolt-1.2.0-aarch64-unknown-linux-gnu.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-gnu.sha256) | 103 B | `native/linux/arm64/glibc` |
+| [jolt-1.2.0-aarch64-unknown-linux-musl](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-musl) | 6.9 MiB | `native/linux/arm64/musl` |
+| [jolt-1.2.0-aarch64-unknown-linux-musl.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-musl.sha256) | 104 B | `native/linux/arm64/musl` |
+| [jolt-1.2.0-darwin-amd64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-amd64.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [jolt-1.2.0-darwin-amd64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-amd64.tar.gz.sha256) | 97 B | `native/darwin/x64` |
+| [jolt-1.2.0-darwin-arm64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-arm64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [jolt-1.2.0-darwin-arm64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-arm64.tar.gz.sha256) | 97 B | `native/darwin/arm64` |
+| [jolt-1.2.0-linux-amd64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [jolt-1.2.0-linux-amd64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-amd64.tar.gz.sha256) | 96 B | `native/linux/x64` |
+| [jolt-1.2.0-linux-arm64.tar.gz](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-arm64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
+| [jolt-1.2.0-linux-arm64.tar.gz.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-arm64.tar.gz.sha256) | 96 B | `native/linux/arm64` |
+| [jolt-1.2.0-x86_64-apple-darwin](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-apple-darwin) | 7.3 MiB | `native/darwin/x64` |
+| [jolt-1.2.0-x86_64-apple-darwin.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-apple-darwin.sha256) | 97 B | `native/darwin/x64` |
+| [jolt-1.2.0-x86_64-unknown-linux-gnu](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-gnu) | 8.0 MiB | `native/linux/x64/glibc` |
+| [jolt-1.2.0-x86_64-unknown-linux-gnu.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-gnu.sha256) | 102 B | `native/linux/x64/glibc` |
+| [jolt-1.2.0-x86_64-unknown-linux-musl](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl) | 8.1 MiB | `native/linux/x64/musl` |
+| [jolt-1.2.0-x86_64-unknown-linux-musl.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl.sha256) | 103 B | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 553 · **Fork**: 15 · **开放 issue**: 45 · **贡献者**: 6
+- **Star**: 552 · **Fork**: 15 · **开放 issue**: 45 · **贡献者**: 6
 
 ## 累计统计
 
@@ -62,4 +88,4 @@ jolt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:01:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:52Z._
