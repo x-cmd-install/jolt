@@ -7,7 +7,7 @@ about:
   latestVersion: "1.2.0"
   latestRelease: "1.2.0"
   latestPrerelease: "1.2.0-beta.2"
-  collectedAt: 2026-09-10T05:00:57Z
+  collectedAt: 2026-09-10T16:49:45Z
 timeline:
   created: 2026-01-06
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-09
   lastPrerelease: 2026-02-04
 popularity:
-  star: 553
+  star: 552
   watcher: 4
   fork: 15
   release: 15
@@ -89,7 +89,7 @@ total:
   commit: 249
 ---
 path: /home/runner/.x-repo/github.com/jordond/jolt
-collectedAt: 2026-09-10T05:00:59Z
+collectedAt: 2026-09-10T16:49:46Z
 loc:
   Rust:
     code: 17287
