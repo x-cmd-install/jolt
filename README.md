@@ -12,6 +12,18 @@
 x install jolt
 ```
 
+## Code insight
+
+Total: **19,061** lines of code across **135** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 17,287 | 83 | 2,433 | 85 |
+| Toml | 453 | 14 | 46 | 15 |
+| Json | 437 | 0 | 0 | 33 |
+| Sh | 311 | 8 | 14 | 1 |
+| Css | 261 | 26 | 49 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jordond/jolt>
@@ -23,6 +35,25 @@ x install jolt
 - **Latest**: `1.2.0` (2026-02-09)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 22
+
+## Popularity
+
+- **Stars**: 552 · **Forks**: 15 · **Open issues**: 45 · **Contributors**: 6
+
+## Totals (cumulative)
+
+- **Releases**: 15 · **Merged PRs**: 149 · **Open PRs**: 11 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 249
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 10 | 8 | 0 | 1 | 12 |
+| last60d | 2026-07-12 | 0 | 10 | 8 | 0 | 1 | 12 |
+| 90d | 2026-06-12 | 0 | 10 | 8 | 0 | 1 | 12 |
+| last180d | 2026-03-14 | 0 | 16 | 9 | 0 | 1 | 22 |
+| 360d | 2025-09-15 | 15 | 149 | 11 | 38 | 7 | 246 |
+| last720d | 2024-09-20 | 15 | 149 | 11 | 38 | 7 | 249 |
 
 ## Release assets
 
@@ -51,33 +82,13 @@ x install jolt
 | [jolt-1.2.0-x86_64-unknown-linux-musl](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl) | 8.1 MiB | `native/linux/x64/musl` |
 | [jolt-1.2.0-x86_64-unknown-linux-musl.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl.sha256) | 103 B | `native/linux/x64/musl` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 552 · **Forks**: 15 · **Open issues**: 45 · **Contributors**: 6
+Reported by **7** distros on [repology.org](https://repology.org/project/jolt). **6** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 15 · **Merged PRs**: 149 · **Open PRs**: 11 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 249
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 10 | 8 | 0 | 1 | 12 |
-| 90d | 2026-06-12 | 0 | 10 | 8 | 0 | 1 | 12 |
-| 360d | 2025-09-15 | 15 | 149 | 11 | 38 | 7 | 246 |
-
-## Code size
-
-Total: **19,061** lines of code across **135** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 17,287 | 83 | 2,433 | 85 |
-| Toml | 453 | 14 | 46 | 15 |
-| Json | 437 | 0 | 0 | 33 |
-| Sh | 311 | 8 | 14 | 1 |
-| Css | 261 | 26 | 49 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.2.0` | ✅ latest |
 
 ## Improve this data
 
@@ -88,4 +99,4 @@ Install metadata for jolt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:51Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:48:16Z._
