@@ -38,22 +38,22 @@ Total: **19,061** lines of code across **135** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 552 · **Forks**: 15 · **Open issues**: 45 · **Contributors**: 6
+- **Stars**: 553 · **Forks**: 15 · **Open issues**: 45 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 149 · **Open PRs**: 11 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 249
+- **Releases**: 15 · **Merged PRs**: 149 · **Open PRs**: 12 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 10 | 8 | 0 | 1 | 12 |
-| last60d | 2026-07-12 | 0 | 10 | 8 | 0 | 1 | 12 |
-| 90d | 2026-06-12 | 0 | 10 | 8 | 0 | 1 | 12 |
-| last180d | 2026-03-14 | 0 | 16 | 9 | 0 | 1 | 22 |
-| 360d | 2025-09-15 | 15 | 149 | 11 | 38 | 7 | 246 |
-| last720d | 2024-09-20 | 15 | 149 | 11 | 38 | 7 | 249 |
+| 30d | 2026-08-12 | 0 | 10 | 9 | 0 | 1 | 12 |
+| last60d | 2026-07-13 | 0 | 10 | 9 | 0 | 1 | 12 |
+| 90d | 2026-06-13 | 0 | 10 | 9 | 0 | 1 | 12 |
+| last180d | 2026-03-15 | 0 | 16 | 10 | 0 | 1 | 22 |
+| 360d | 2025-09-16 | 15 | 149 | 12 | 38 | 7 | 246 |
+| last720d | 2024-09-21 | 15 | 149 | 12 | 38 | 7 | 249 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for jolt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:00:22Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:56:07Z._
