@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7324936,
       "digest": "sha256:ba39606d31ebd5531e5974a368017aa0e1accf739adcc14dac186c4a6c292f2c",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-02-09T17:52:12Z",
       "updated_at": "2026-02-09T17:52:13Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-gnu"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3544806,
       "digest": "sha256:51617a447e768d4b0692f63dd33d4d8bc68e95c535c8e46341de962adeef8324",
-      "download_count": 772,
+      "download_count": 776,
       "created_at": "2026-02-09T17:51:20Z",
       "updated_at": "2026-02-09T17:51:20Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4000614,
       "digest": "sha256:941a1b79b078f4d522622ae1329fb86723be7d7a84d1786ea5b917744dd0b1a4",
-      "download_count": 315,
+      "download_count": 317,
       "created_at": "2026-02-09T17:51:57Z",
       "updated_at": "2026-02-09T17:51:58Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-amd64.tar.gz"
