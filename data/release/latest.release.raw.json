@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7024944,
       "digest": "sha256:935aba2720b6671dea14611614ea155f8fd345dfe014b33c2713c2193f2e8639",
-      "download_count": 170,
+      "download_count": 172,
       "created_at": "2026-02-09T17:51:18Z",
       "updated_at": "2026-02-09T17:51:18Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-apple-darwin"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7324936,
       "digest": "sha256:ba39606d31ebd5531e5974a368017aa0e1accf739adcc14dac186c4a6c292f2c",
-      "download_count": 43,
+      "download_count": 46,
       "created_at": "2026-02-09T17:52:12Z",
       "updated_at": "2026-02-09T17:52:13Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-aarch64-unknown-linux-gnu"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3798725,
       "digest": "sha256:e46a3f12dc05f7415bb365dc490f255ee855a75c0c921b4f9dfd929c2332ac8b",
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2026-02-09T17:51:18Z",
       "updated_at": "2026-02-09T17:51:19Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-amd64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3544806,
       "digest": "sha256:51617a447e768d4b0692f63dd33d4d8bc68e95c535c8e46341de962adeef8324",
-      "download_count": 776,
+      "download_count": 778,
       "created_at": "2026-02-09T17:51:20Z",
       "updated_at": "2026-02-09T17:51:20Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-darwin-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4000614,
       "digest": "sha256:941a1b79b078f4d522622ae1329fb86723be7d7a84d1786ea5b917744dd0b1a4",
-      "download_count": 317,
+      "download_count": 319,
       "created_at": "2026-02-09T17:51:57Z",
       "updated_at": "2026-02-09T17:51:58Z",
       "browser_download_url": "https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-linux-amd64.tar.gz"
