@@ -37,28 +37,6 @@
     - anelgarhy@aur
   licenses:
     - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: jolt
-  binname: jolt
-  visiblename: jolt
-  version: 1.2.0
-  origversion: 1.2.0-3
-  status: newest
-  summary: TUI-based battery and energy monitor
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: jolt
-  binname: jolt
-  visiblename: jolt
-  version: 1.2.0
-  origversion: 1.2.0-3
-  status: newest
-  summary: TUI-based battery and energy monitor
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: jolt
