@@ -48,12 +48,12 @@ Total: **19,061** lines of code across **135** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 0 | 11 | 12 | 0 | 2 | 13 |
-| last180d | 2026-05-28 | 0 | 11 | 12 | 0 | 2 | 13 |
-| 360d | 2025-11-29 | 15 | 150 | 15 | 38 | 8 | 247 |
-| last720d | 2024-12-04 | 15 | 150 | 15 | 38 | 8 | 250 |
+| 30d | 2026-10-26 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-27 | 0 | 11 | 12 | 0 | 2 | 13 |
+| last180d | 2026-05-29 | 0 | 11 | 12 | 0 | 2 | 13 |
+| 360d | 2025-11-30 | 15 | 150 | 15 | 38 | 8 | 247 |
+| last720d | 2024-12-05 | 15 | 150 | 15 | 38 | 8 | 250 |
 
 ## Release assets
 
@@ -82,14 +82,6 @@ Total: **19,061** lines of code across **135** files in the top 5 languages.
 | [jolt-1.2.0-x86_64-unknown-linux-musl](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl) | 8.1 MiB | `native/linux/x64/musl` |
 | [jolt-1.2.0-x86_64-unknown-linux-musl.sha256](https://github.com/jordond/jolt/releases/download/1.2.0/jolt-1.2.0-x86_64-unknown-linux-musl.sha256) | 103 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/jolt). **6** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.2.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for jolt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jolt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +91,4 @@ Install metadata for jolt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:07:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:00:49Z._
